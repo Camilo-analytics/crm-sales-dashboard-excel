@@ -1,4 +1,5 @@
 # CRM Sales Performance Dashboard — Excel
+![Dashboard](CRM%20Dashboard%20excel.png)
 
 ## Project Overview
 Interactive Excel dashboard built from the CRM Sales Performance SQL analysis.
